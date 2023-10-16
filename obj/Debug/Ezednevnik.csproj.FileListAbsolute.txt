@@ -1,0 +1,7 @@
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\bin\Debug\Ezednevnik.exe.config
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\bin\Debug\Ezednevnik.exe
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\bin\Debug\Ezednevnik.pdb
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\obj\Debug\Ezednevnik.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\obj\Debug\Ezednevnik.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\obj\Debug\Ezednevnik.exe
+C:\Users\Миша\Projects\ProjectC\Ezednevnik\obj\Debug\Ezednevnik.pdb

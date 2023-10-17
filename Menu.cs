@@ -10,7 +10,7 @@ namespace Ezednevnik
     internal class Menu
     {
 
-        public ConsoleKeyInfo Show()
+        public void Show()
         {
             int pos = 2;
             ConsoleKeyInfo key;
@@ -46,8 +46,8 @@ namespace Ezednevnik
 
                 Console.SetCursorPosition(0, 10);
             } while (key.Key != ConsoleKey.Spacebar) ;
-            return key;
-
+         /*   return key;
+*/
         }
     }
 }
